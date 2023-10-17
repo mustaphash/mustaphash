@@ -3,6 +3,7 @@
 <h3 align="center"></h3>
 <p align="center">Self-developing .NET developer</P>
  <p align="center">🏃 I’m currently working on <a href="https://github.com/mustaphash/Outdoor" title="Issues">Outdoor</a></p>
+ <p align="center"> &#128218; I'm learning HTML, CSS and JavaScript
  <p align="center">🎓  Bachelor's in Software Engineering </p>
  <p align="center"> <a href="https://www.linkedin.com/in/mustafa-shakir-970391231/"> <img size=7% src="https://www.iconsdb.com/icons/preview/green/linkedin-5-xxl.png" width="40" height="40"/> </a> <a href="mailto:mshakir9918@gmail.com"> <img size=7% src="https://www.iconsdb.com/icons/preview/green/email-14-xxl.png" height="40"/> </a>
 
