@@ -44,9 +44,9 @@
 <h2 align = "center">Stats:</h2>
 <p align = "center">
   <div align="center">
-<img width=45% align="left" high=50% src="https://github-readme-stats.vercel.app/api?username=mustaphash&hide_border=true&show_icons=true&theme=gruvbox" style="max-width: 100%;" />
+<img width=45% align="left" high=45% src="https://github-readme-stats.vercel.app/api?username=mustaphash&hide_border=true&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644&border_color=ffb000" style="max-width: 100%;" />
 
-<img width=45% align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mustaphash&hide_border=true&show_icons=true&theme=gruvbox" alt="mustaphash" />
+<img width=45% align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mustaphash&hide_border=true&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644&border_color=ffb000" alt="mustaphash" />
   </div>
   <br>
 	<br>
@@ -57,8 +57,27 @@
 	<br>
 	<br>
   <div align="center">
-<img width="35%" align="center" height="50%" margin-top:30px src="https://github-readme-stats.vercel.app/api/top-langs?username=mustaphash&hide_border=true&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="mustaphash" style="max-width: 100%;" />
+<img width="35%" align="center" height="45%" margin-top:30px src="https://github-readme-stats.vercel.app/api/top-langs?username=mustaphash&hide_border=true&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644&border_color=ffb000" alt="mustaphash" style="max-width: 100%;" />
   </div>
 </p>
 
-<h2 align="center" dir=auto> Repositories: </h2>
+<h2 align="center"> Repositories: </h2>
+<br />
+<p align="center">
+  <a href="https://github.com/mustaphash/Outdoor">
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustaphash&repo=Outdoor&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644&border_color=ffb000" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://github.com/mustaphash/BulgarianPlaces">
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustaphash&repo=Outdoor&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644&border_color=ffb000" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/mustaphash/AstroNeoWs">
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustaphash&repo=AstroNeoWs&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644&border_color=ffb000" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://github.com/mustaphash/Pharmacy">
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustaphash&repo=Pharmacy&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644&border_color=ffb000" />
+  </a>
+</p>
