@@ -69,7 +69,7 @@
   </a>
   <span>&nbsp;</span>
   <a href="https://github.com/mustaphash/BulgarianPlaces">
-    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustaphash&repo=Outdoor&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644&border_color=ffb000" />
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustaphash&repo=BulgarianPlaces&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644&border_color=ffb000" />
   </a>
 </p>
 <p align="center">
